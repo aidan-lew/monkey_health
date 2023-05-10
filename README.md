@@ -14,3 +14,12 @@ The three aims of this work are:
 1. Develop tools to predict blood biomarker levels
 2. Develop tools to predict health outcomes
 3. Develop tools to predict radiation exposure (dose)
+
+I found that AI can be used to make highly accurate biomarker predictions and dose predictions, 
+though the health outcome prediciton models need a little work before they can be used clinicaly. 
+
+Finaly, I hope this work lives on, and thus, I have pipelined the different ML models and 
+I have crafted a rudimentary personalized medicine API dubbed 'lymph_predictor_2000' and 'dose_predictor_2000' 
+for lymphocyte and dose predictions on new data.
+
+Thank you for your interest in this work, please reach out with any questions!
