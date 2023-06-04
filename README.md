@@ -23,4 +23,3 @@ I have crafted a rudimentary personalized medicine API dubbed `lymph_predictor_2
 for lymphocyte and dose predictions on new data.
 
 Thank you for your interest in this work, please reach out with any questions!
-![image](https://github.com/aidan-lew/monkey_health/assets/67328773/948a7411-9640-4c60-a747-8bb53236847a)
