@@ -20,6 +20,6 @@ though the health outcome prediction models need a little work before they can b
 
 Finally, I hope this work lives on, and thus, I have pipelined the different ML models and 
 I have crafted a rudimentary personalized medicine API dubbed `lymph_predictor_2000` and `dose_predictor_2000` 
-for lymphocyte and dose predictions on new data.
+for lymphocyte and dose predictions on new data. I just ask to be given credit where credit is due when using any code found within this repository. 
 
-Thank you for your interest in this work, please reach out with any questions!
+Thank you for your interest in this work, please reach out with any questions aidanlew@rams.colostate.edu
